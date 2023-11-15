@@ -1,9 +1,8 @@
 import './App.css'
+import Board from "./Components/Board"
 
 export default function App() {
   return (
-    <main>
-      React ⚛️ + Vite ⚡ + Replit 🌀
-    </main>
+    <Board/>
   )
 }

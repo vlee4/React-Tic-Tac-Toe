@@ -1,5 +1,17 @@
-main {
-  text-align: center;
-  vertical-align: center;
-  line-height: 100vh
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  padding: 0;
+}
+
+.square {
+  background: #fff;
+  border: solid black 1px;
+  font-size: 24px;
+  height: 34px;
+  width: 34px;
 }
